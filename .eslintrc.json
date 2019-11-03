@@ -17,9 +17,10 @@
   },
   "plugins": ["react"],
   "rules": {
-    "quotes": ["error", "single"],
+    "quotes": ["error", "double"],
     "semi": ["error", "always"],
     "no-var": "warn",
-    "no-unused-vars":"off"
+    "no-unused-vars":"off",
+    "no-undef":"off"
   }
 }
