@@ -3,8 +3,8 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  var test = "sameer";
-  console.log(sameer);
+  let test2 = "sameer";
+  console.log(test2);
 
   return (
     <div className="App">
